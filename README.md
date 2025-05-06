@@ -1,1 +1,76 @@
-# KD-Proje
+konu = iklim değişikliği
+
+1) iklim değişikliği ile ilgili göze batan(iyi anlamda) fotoğraf yüklemek
+
+2) iklim değişikliğinin ne olduğunu,nasıl oluştuğu,nelere yol açtığını detaylı bir şekilde anlatmak
+
+3) iklim değişikliğini özetlemek için bir kaç görsel yüklemek
+
+4) iklim değişikliğinin önlemek için yapılabilecekleri yazmak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
